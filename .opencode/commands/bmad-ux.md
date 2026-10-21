@@ -1,0 +1,7 @@
+---
+description: "Capture the user's UX vision in two documents: DESIGN.md for how the product looks and EXPERIENCE.md for how it behaves. Use when the user says \"lets create UX design\" or \"create UX specifications\" or \"help me plan the UX\""
+---
+
+Load the `bmad-ux` skill with the skill tool, then follow it exactly.
+
+$ARGUMENTS

@@ -1,0 +1,27 @@
+# 環境變數與密碼
+.env
+.env.*
+!.env.example
+sql密碼.txt
+
+# 備份檔
+*.dump
+*.backup
+
+# 程式碼
+node_modules/
+dist/
+build/
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# 編輯器 / 系統
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# 日誌
+*.log
